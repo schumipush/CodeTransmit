@@ -6,3 +6,6 @@
     可将文件编码转为UTF-8 BOM 、UTF-8、GB2312中的任意一种格式；
   
   src文件夹下是源码，exe文件夹下是打包好可直接在windows下运行的exe程序。
+  
+  
+- CSDN link: https://blog.csdn.net/fuxuemingzhu/article/details/48183957
